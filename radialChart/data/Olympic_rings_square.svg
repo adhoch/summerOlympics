@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="1020">
+<g stroke-width="30" stroke="#fff" fill="none">
+<g stroke-width="45">
+<circle cx="345" cy="577.5" r="135"/>
+<circle cx="675" cy="577.5" r="135"/></g>
+<circle cx="345" cy="577.5" r="135" stroke="#f4c300"/>
+<circle cx="675" cy="577.5" r="135" stroke="#009f3d"/>
+<g stroke-width="45">
+<circle cx="180" cy="442.5" r="135"/>
+<circle cx="510" cy="442.5" r="135"/>
+<circle cx="840" cy="442.5" r="135"/></g>
+<circle cx="180" cy="442.5" r="135" stroke="#0085c7"/>
+<circle cx="510" cy="442.5" r="135" stroke="#000"/>
+<circle cx="840" cy="442.5" r="135" stroke="#df0024"/>
+<g stroke-width="45">
+<path d="M345,442.5A135,135 0 0 1 426,469.5"/>
+<path d="M237,658.5A135,135 0 0 1 237,496.5"/>
+<path d="M675,442.5A135,135 0 0 1 756,469.5"/>
+<path d="M567,658.5A135,135 0 0 1 567,496.5"/></g>
+<g stroke="#f4c300">
+<path d="M345,442.5A135,135 0 0 1 453,496.5"/>
+<path d="M264,685.5A135,135 0 0 1 264,469.5"/></g>
+<g stroke="#009f3d">
+<path d="M675,442.5A135,135 0 0 1 783,496.5"/>
+<path d="M594,685.5A135,135 0 0 1 594,469.5"/></g></g></svg>

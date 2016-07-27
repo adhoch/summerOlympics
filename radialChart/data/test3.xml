@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <country>Australasia</country>
+        <olympics>
+            <y1972/>
+            <y1956/>
+            <y1976/>
+            <y1952/>
+            <y1912>
+                <Gold>2</Gold>
+                <Men>23</Men>
+                <Sports>4</Sports>
+                <participants>25</participants>
+                <total>7</total>
+                <Silver>2</Silver>
+                <Bronze>3</Bronze>
+                <Women>2</Women>
+            </y1912>
+            <y1980/>
+            <y1984/>
+            <y1988/>
+            <y1920/>
+            <y2004/>
+            <y1924/>
+            <y2000/>
+            <y1928/>
+            <y2008/>
+            <y1908>
+                <Gold>1</Gold>
+                <Men>30</Men>
+                <Sports>6</Sports>
+                <participants>30</participants>
+                <total>5</total>
+                <Silver>2</Silver>
+                <Bronze>2</Bronze>
+                <Women>0</Women>
+            </y1908>
+            <y1968/>
+            <y1964/>
+            <y1906/>
+            <y1900/>
+            <y1960/>
+            <y1948/>
+            <y1904/>
+            <y1896/>
+            <y1992/>
+            <y1996/>
+            <y1936/>
+            <y1932/>
+            <y2012/>
+        </olympics>
+        <totals>
+            <Gold>3</Gold>
+            <Sports>8</Sports>
+            <Participants>53</Participants>
+            <totMedals>12</totMedals>
+            <Silver>4</Silver>
+            <Bronze>5</Bronze>
+        </totals>
+    </item>
+    <item>
+        <country>South Vietnam</country>
+        <olympics>
+            <y1972>
+                <Gold> </Gold>
+                <Men>2</Men>
+                <Sports>1</Sports>
+                <participants>2</participants>
+                <total> </total>
+                <Silver> </Silver>
+                <Bronze> </Bronze>
+                <Women>0</Women>
+            </y1972>
+            <y1956>
+                <Gold> </Gold>
+                <Men>6</Men>
+                <Sports>1</Sports>
+                <participants>6</participants>
+                <total> </total>
+                <Silver> </Silver>
+                <Bronze> </Bronze>
+                <Women>0</Women>
+            </y1956>
+            <y1976/>
+            <y1952>
+                <Gold> </Gold>
+                <Men>8</Men>
+                <Sports>5</Sports>
+                <participants>8</participants>
+                <total> </total>
+                <Silver> </Silver>
+                <Bronze> </Bronze>
+                <Women>0</Women>
+            </y1952>
+            <y1912/>
+            <y1980/>
+            <y1984/>
+            <y1988/>
+            <y1920/>
+            <y2004/>
+            <y1924/>
+            <y2000/>
+            <y1928/>
+            <y2008/>
+            <y1908/>
+            <y1968>
+                <Gold> </Gold>
+                <Men>7</Men>
+                <Sports>5</Sports>
+                <participants>9</participants>
+                <total> </total>
+                <Silver> </Silver>
+                <Bronze> </Bronze>
+                <Women>2</Women>
+            </y1968>
+            <y1964>
+                <Gold> </Gold>
+                <Men>16</Men>
+                <Sports>5</Sports>
+                <participants>16</participants>
+                <total> </total>
+                <Silver> </Silver>
+                <Bronze> </Bronze>
+                <Women>0</Women>
+            </y1964>
+            <y1906/>
+            <y1900/>
+            <y1960>
+                <Gold> </Gold>
+                <Men>3</Men>
+                <Sports>2</Sports>
+                <participants>3</participants>
+                <total> </total>
+                <Silver> </Silver>
+                <Bronze> </Bronze>
+                <Women>0</Women>
+            </y1960>
+            <y1948/>
+            <y1904/>
+            <y1896/>
+            <y1992/>
+            <y1996/>
+            <y1936/>
+            <y1932/>
+            <y2012/>
+        </olympics>
+        <totals>
+            <Gold> </Gold>
+            <Sports>7</Sports>
+            <Participants>39</Participants>
+            <totMedals> </totMedals>
+            <Silver> </Silver>
+            <Bronze> </Bronze>
+        </totals>
+    </item>
+   </items>
